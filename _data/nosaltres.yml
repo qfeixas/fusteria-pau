@@ -1,0 +1,26 @@
+- title: QUI SOM
+  description: Després de 15 anys d’experiència en el món de la fusteria i d’haver adquirit molts coneixements en aquest àmbit, decidim obrir una petita empresa amb ganes de treballar, atendre i satisfer tots els clients de la millor manera possible, cuidant cada detall i amb l’interés de trobar noves solucions per cada projecte.
+  image: /assets/img/qui-som.jpg
+  left: true
+  icon:
+
+- title: EL TALLER
+  description: Disposem d’un taller per la fabricació dels mobles així com també donem el servei de distribució, muntatge i desmuntatge de les peces.
+  description2: La nostra empresa utilitza un gran ventall de tipus de fustes, no ens cenyim amb una de concreta, seleccionant sempre les de més qualitat i intentant escollir la més adient per la realització de cada treball.
+  image: /assets/img/taller.jpg
+  right: true
+  icon:
+
+- title: QUÈ OFERIM
+  description: Portes, cuines, finestres, parquets, armaris fets a mida, fusteria en general i un llarg etcètera és el que està a disposició dels nostres clients escoltant la seva proposta de treball i intentant desenvolupar dissenys personalitzats al gust de cada client.
+  description2: Considerem que tan la fabricació d’un producte com el seu acabat és important, per això, tractem tots els materials utilitzant el vernís o el lacat de les peces per deixar-les amb un acabat de qualitat.
+  image: /assets/img/que-oferim.jpg
+  left: true
+  icon:
+
+- title: CONSULTA'NS
+  description: Consulta’ns per qualsevol dubte, l’assessorarem i prendrem les mides adients. Sol·licita’ns el seu pressupost sense compromís.
+  description2: Consulta’ns també per petites reparacions com arreglar persianes, canviar panys o posar mosquiteres, així com també per la rehabilitació de portes i finestres.
+  image: /assets/img/consultans.jpg
+  right: true
+  icon:

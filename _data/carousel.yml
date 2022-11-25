@@ -1,0 +1,17 @@
+- index: 0
+  title: MOBLES
+  description: Mobles a mida amb l'estètica i els materials desitjats
+  image: /assets/img/carousel/banner-0.jpg
+  link: /serveis/mobles/
+
+- index: 1
+  title: ESCALES
+  description: Tot tipus d'estructures i baranes
+  image: /assets/img/carousel/banner-1.jpg
+  link: /serveis/escales/
+
+- index: 2
+  title: CUINES
+  description: Cuines adaptades a les vostres necessitats
+  image: /assets/img/carousel/banner-2.jpg
+  link: /serveis/cuines/
